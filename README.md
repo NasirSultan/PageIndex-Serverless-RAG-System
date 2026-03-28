@@ -79,7 +79,7 @@ Open `.env` and set your OpenAI API key:
 
 ```env
 OPENAI_API_KEY=sk-your-key-here
-MONGO_URI=mongodb+srv://nasireaglines_db_user:...@rag.d74ni5g.mongodb.net/reasoningrag
+MONGO_URI=mongodb+srvg
 PORT=3000
 MODE=http
 ```
